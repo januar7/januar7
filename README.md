@@ -1,5 +1,7 @@
-### Hi there 👋
-## My name is Januar Nur Rasyid
+## Hi there 👋
+### My name is Januar Nur Rasyid . Currently i'm is a college student in  Yogyakarta, Indoesia
+
+<!-- ### Social Media -->
 
 
 <!--
